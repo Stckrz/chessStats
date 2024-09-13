@@ -1,0 +1,32 @@
+.spinnerSquare1{
+	background-color: #a6e3a1;
+	opacity: 100%;
+	animation: becomeReal 1s infinite;
+}
+.spinnerSquare2{
+	background-color: #cdd6f4;
+	opacity: 100%;
+	animation: becomeReal 1s infinite;
+	animation-delay: 0.25s;
+}
+.spinnerSquare3{
+	background-color: #cdd6f4;
+	opacity: 100%;
+	animation: becomeReal 1s infinite;
+	animation-delay: 0.5s;
+}
+.spinnerSquare4{
+	background-color: #a6e3a1;
+	opacity: 100%;
+	animation: becomeReal 1s infinite;
+	animation-delay: 0.75s;
+}
+@keyframes becomeReal{
+	0%{
+		opacity: 50%
+	}
+	100%{
+		opacity: 100%
+		
+	}
+}
