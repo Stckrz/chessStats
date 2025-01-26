@@ -7,7 +7,7 @@ export const gameModes = [
 	"live_bughouse",
 	"live_bullet",
 	"live_crazyhouse",
-	"live_kindofthehill",
+	"live_kingofthehill",
 	"live_threecheck",
 	"rush",
 	"tactics",
